@@ -1,0 +1,6 @@
+{
+  name = "banking",
+  file = "files/bank.lua",
+  id = "bank",
+  version = "1.0.1",
+}
