@@ -1,7 +1,0 @@
-{
-    id = "update",
-    files = {
-        {"files/update.lua","update.lua"},
-    },
-    version = "1.1.0",
-}
