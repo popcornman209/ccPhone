@@ -1,9 +1,9 @@
 # ccPhone
 An expandable phone in computer craft some photos below, to setup just look below the images
-![alt text](phone1.png)
-![alt text](phone2.png)
-![alt text](phone3.png)
-![alt text](phone4.png)
+![alt text](images/phone1.png)
+![alt text](images/phone2.png)
+![alt text](images/phone3.png)
+![alt text](images/phone4.png)
 
 to set it up put all files in the phone directory, into your pocket computer (it has to be a advanced computer with a ender modem) and put all files from server into a regular computer with a ender modem on top.
 
