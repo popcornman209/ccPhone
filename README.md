@@ -60,4 +60,4 @@ for adding your app in the settings app, just make another lua file for the sett
   file = "files/settings/settingFile.lua",
 }
 ```
-the settings app will read this file and add it too the settings app. if you have any questions just ask me on discord (hello_human#0001) or make a issue thing on github
+the settings app will read this file and add it too the settings app. if you have any questions just ask me on discord (hello_human) or make a issue thing on github
