@@ -1,11 +1,13 @@
 # ccPhone
-An expandable phone in computer craft some photos below, to setup just look below the images
+An expandable phone in computer craft. creating apps is below the images.
+to install just run the below code on the phone/server, it will bring you through the steps.
+```
+pastebin run EzLeKNHy
+```
 ![alt text](images/phone1.png)
 ![alt text](images/phone2.png)
 ![alt text](images/phone3.png)
 ![alt text](images/phone4.png)
-
-to set it up put all files in the phone directory, into your pocket computer (it has to be a advanced computer with a ender modem) and put all files from server into a regular computer with a ender modem on top.
 
 i will never update the phone/ directory, as there is no reason to, the second you turn it on it will update itself with the server.
 if you want to make an app, you put all lua files in the files/files directory in the server. then you will have to make a file listing all data about the app in files/apps that will look like this:
