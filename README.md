@@ -4,6 +4,7 @@ to install just run the below code on the phone/server, it will bring you throug
 ```
 pastebin run EzLeKNHy
 ```
+
 ![alt text](images/phone1.png)
 ![alt text](images/phone2.png)
 ![alt text](images/phone3.png)
