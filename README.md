@@ -1,15 +1,19 @@
 # ccPhone
 An expandable phone in computer craft. creating apps is below the images.
+
+### setup
 to install just run the below code on the phone/server, it will bring you through the steps.
 ```
 pastebin run EzLeKNHy
 ```
 
+### photos
 ![alt text](images/phone1.png)
 ![alt text](images/phone2.png)
 ![alt text](images/phone3.png)
 ![alt text](images/phone4.png)
 
+### creating an app
 i will never update the phone/ directory, as there is no reason to, the second you turn it on it will update itself with the server.
 if you want to make an app, you put all lua files in the files/files directory in the server. then you will have to make a file listing all data about the app in files/apps that will look like this:
 ```
