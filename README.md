@@ -6,6 +6,7 @@ to install just run the below code on the phone/server, it will bring you throug
 ```
 pastebin run EzLeKNHy
 ```
+you are rate limited by ip, so you can only install this on a few phones/servers per hour. this is just because of githubs api limit (per ip).
 
 ### photos
 ![alt text](images/phone1.png)
