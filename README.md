@@ -1,5 +1,7 @@
 # ccPhone
 An expandable phone in computer craft. creating apps is below the images.
+## THIS IS NOW OUTDATED! NEW VERSION BELOW
+https://github.com/popcornman209/ccDevice
 
 ### setup
 to install just run the below code on the phone/server, it will bring you through the steps.
